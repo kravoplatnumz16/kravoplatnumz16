@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kravoplatnumz16
 - 👀 I’m interested in python
 - 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on codind in python
+- 💞️ I’m looking to collaborate on coding in python
 - 📫 How to reach me... +263775832004 Telegram
 
 <!---
